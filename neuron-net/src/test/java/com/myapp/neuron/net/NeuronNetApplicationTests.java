@@ -1,4 +1,4 @@
-package com.myapp.redis_cache_poc;
+package com.myapp.neuron.net;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
